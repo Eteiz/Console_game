@@ -59,3 +59,4 @@ Here's the list of things that can be improved if given more time or had more ex
 - [ ] Reading dialogue from file
 - [ ] Possibility to dynamically add and delete lines for dialogue phases
 - [ ] Dialogue lines change automatically after 3 seconds, the waiting can be skipped with pressing *space*
+- [ ] Chance of success are displayed above buttons
