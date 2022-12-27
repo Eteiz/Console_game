@@ -1,0 +1,3 @@
+C:/Users/MrsRo/OneDrive/Pulpit/Console_game/cmake-build-debug/CMakeFiles/Console_game.dir
+C:/Users/MrsRo/OneDrive/Pulpit/Console_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MrsRo/OneDrive/Pulpit/Console_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
